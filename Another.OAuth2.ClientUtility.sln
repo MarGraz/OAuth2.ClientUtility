@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another.OAuth2.ClientUtility.ClientCredentialsFlow.Common", "Another.OAuth2.ClientUtility.ClientCredentialsFlow.Common\Another.OAuth2.ClientUtility.ClientCredentialsFlow.Common.csproj", "{0A122ED3-8E60-459B-DA23-A0EAF654232C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another.OAuth2.ClientUtility.ClientCredentialsFlow.BusinessLogic", "Another.OAuth2.ClientUtility.ClientCredentialsFlow.BusinessLogic\Another.OAuth2.ClientUtility.ClientCredentialsFlow.BusinessLogic.csproj", "{8DABD3A2-BDDB-22F1-63D6-BD7F7D0D438D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another.OAuth2.ClientUtility.ClientCredentialsFlow.DataAccess", "Another.OAuth2.ClientUtility.ClientCredentialsFlow.DataAccess\Another.OAuth2.ClientUtility.ClientCredentialsFlow.DataAccess.csproj", "{AAB0A463-6B57-CA64-E0E4-E2EEDF2980AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another.OAuth2.ClientUtility.ClientCredentialsFlow.ConsoleAppSample", "Another.OAuth2.ClientUtility.ClientCredentialsFlow.ConsoleAppSample\Another.OAuth2.ClientUtility.ClientCredentialsFlow.ConsoleAppSample.csproj", "{D7772EBC-0875-5E0A-9ABE-101D56F884E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another.OAuth2.ClientUtility.ClientCredentialsFlow", "Another.OAuth2.ClientUtility.ClientCredentialsFlow\Another.OAuth2.ClientUtility.ClientCredentialsFlow.csproj", "{019C2DFB-D3EF-FE23-6880-31FB062F6BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A122ED3-8E60-459B-DA23-A0EAF654232C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A122ED3-8E60-459B-DA23-A0EAF654232C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A122ED3-8E60-459B-DA23-A0EAF654232C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A122ED3-8E60-459B-DA23-A0EAF654232C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DABD3A2-BDDB-22F1-63D6-BD7F7D0D438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DABD3A2-BDDB-22F1-63D6-BD7F7D0D438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DABD3A2-BDDB-22F1-63D6-BD7F7D0D438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DABD3A2-BDDB-22F1-63D6-BD7F7D0D438D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB0A463-6B57-CA64-E0E4-E2EEDF2980AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB0A463-6B57-CA64-E0E4-E2EEDF2980AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB0A463-6B57-CA64-E0E4-E2EEDF2980AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB0A463-6B57-CA64-E0E4-E2EEDF2980AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7772EBC-0875-5E0A-9ABE-101D56F884E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7772EBC-0875-5E0A-9ABE-101D56F884E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7772EBC-0875-5E0A-9ABE-101D56F884E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7772EBC-0875-5E0A-9ABE-101D56F884E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019C2DFB-D3EF-FE23-6880-31FB062F6BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019C2DFB-D3EF-FE23-6880-31FB062F6BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019C2DFB-D3EF-FE23-6880-31FB062F6BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019C2DFB-D3EF-FE23-6880-31FB062F6BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E7CEEC-380B-4E15-A0A8-7B79975D2AC7}
+	EndGlobalSection
+EndGlobal
